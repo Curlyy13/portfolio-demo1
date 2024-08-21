@@ -174,6 +174,10 @@ section {
     margin: auto 0;
 }
 
+.square-pic {
+    border-radius: 10%;
+}
+
 .section__text {
     align-self: center;
     text-align: center;
@@ -291,7 +295,7 @@ section {
     padding: 1.5rem;
     flex: 1;
     background: white;
-    border-radius: 2rem;
+    border-radius: 1.5rem;
     border: rgb(53,53,53) 0.1rem solid;
     border-color: rgb(163,163,163);
     text-align: center;
@@ -364,8 +368,8 @@ article .icon{
 
 .project-img {
     border-radius: 2rem;
-    width: 90%;
-    height: 90%;
+    width: 100%;
+    height: 100%;
 }
 
 .project-title {
